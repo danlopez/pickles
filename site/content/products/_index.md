@@ -8,10 +8,10 @@ intro:
   heading: The best pickles
   description: ...
 main:
-  heading: Great coffee with no compromises
+  heading: Great pickles with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
+    We hold our pickles to the highest standards from the shrub to the jar.
+    That’s why we’re meticulous and transparent about each step of the pickle
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
@@ -21,7 +21,7 @@ main:
     alt: Pickles
     image: img/colander-1840300_1920.jpg
   image3:
-    alt: Coffee beans
+    alt: Pickles
     image: img/pickled-cucumbers-1520638_1920.jpg
 testimonials:
   - author: Pickle Eater
