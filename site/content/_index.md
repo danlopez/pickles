@@ -1,7 +1,7 @@
 ---
 title: Jew Wanna Pickle!
 subtitle: Great Pickles
-image: img/photo-of-red-pepper-beside-pickles-3872406.jpg
+image: img/pickled-cucumbers-1520638_1920.jpg
 blurb:
   heading: Why JWP?
   text: We know pickles.
