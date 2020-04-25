@@ -1,6 +1,6 @@
 ---
 title: Jew Wanna Pickle!
-subtitle: Great Pickles
+subtitle: Chosen pickles from the chosen people
 image: img/pickled-cucumbers-1520638_1920.jpg
 blurb:
   heading: Why JWP?
